@@ -1,0 +1,47 @@
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe.config
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.pdb
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.AssemblyReference.cache
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form1.resources
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Properties.Resources.resources
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.GenerateResource.cache
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.CoreCompileInputs.cache
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.pdb
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form2.resources
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe.config
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.pdb
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.AssemblyReference.cache
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form1.resources
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form2.resources
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Properties.Resources.resources
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.GenerateResource.cache
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.CoreCompileInputs.cache
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe
+C:\Users\Süha Berke\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.pdb
+C:\Users\emrea\source\repos\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form3.resources
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe.config
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.pdb
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form1.resources
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form2.resources
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form3.resources
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Properties.Resources.resources
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe
+C:\Users\PC\Desktop\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.pdb
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe.config
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\bin\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.pdb
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form1.resources
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form2.resources
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Form3.resources
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\_152120231042_152120221098_Grup_14_OOP_2_Exp6b.Properties.Resources.resources
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.exe
+C:\Users\PC\Desktop\Yeni klasör (6)\152120231042 152120221098 Grup 14 OOP_2_Exp6b\obj\Debug\152120231042 152120221098 Grup 14 OOP_2_Exp6b.pdb
